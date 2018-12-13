@@ -46,7 +46,7 @@ Si falla la càrrega dels notebooks, es recomana obrir-los copiant l'enllaç a:
 
   - 'train.csv' i 'test.csv' contenen les dades originals descarregades de Kaggle
   
-  - 'cleaned_train.csv' i 'cleaned_test.csv' 
+  - 'cleaned_train.csv' i 'cleaned_test.csv' contenen les dades netejades. Es generen a '1-3. Descripció i neteja de les dades.ipynb'
   
 · /html:
 
@@ -59,10 +59,13 @@ Si falla la càrrega dels notebooks, es recomana obrir-los copiant l'enllaç a:
 
 # Recursos
 
-● Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
+● Megan Squire (2015). Clean Data. Packt Publishing Ltd.
 
-● Masip, D. El llenguatge Python. Editorial UOC.
+● Jiawei Han, Micheine Kamber, Jian Pei (2012). Data mining: concepts and techniques. Morgan Kaufmann.
 
-● Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+● Jason W. Osborne (2010). Data Cleaning Basics: Best Practices in Dealing with Extreme Scores. Newborn and Infant Nursing Reviews; 10 (1): pp. 1527-3369.
 
-● Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). Automated Data Collection with R: A Practical Guide to Web Scraping and Text Mining. John Wiley & Sons.
+● Peter Dalgaard (2008). Introductory statistics with R. Springer Science & Business
+Media.
+
+● Wes McKinney (2012). Python for Data Analysis. O’Reilley Media, Inc.
