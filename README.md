@@ -1,16 +1,14 @@
-# Pràctica 1 Tipologia - Web Scraping 
+# Pràctica 2 Tipologia - INTEGRACIÓ, NETEJA, VALIDACIÓ I ANÀLISI DE LES DADES. 
 
-## Fitness Revolucionario
-![alt text](https://github.com/polmajor/f_revo/blob/master/img/word_cloud_fitness_revolucionario_complet.png)
+## Enfonsament del Titànic
+![alt text](https://github.com/polmajor/pr2anic/blob/master/titanic.jpg)
 
 # Descripció
-En aquesta pràctica s'implementa un web scraper al blog de Fitness Revolucionario sobre salut i esport:
+En aquesta pràctica s'implementa la integració, neteja, validació i anàlisi de les dades sobre l'enfonsament del Titànic. Formen part de la competició de Kaggle, i es poden trobar al següent enllaç:
 
-> https://www.fitnessrevolucionario.com/
+> https://www.kaggle.com/c/titanic/data
 
-Se n'han obtingut els titulars dels articles, els comentaris i els enllaços de referència. Per això, s'utilitza Python i la llibreria BeautifulSoup, entre altres, per generar un DataSet. 
-
-Per comprovar-ne la utilitat, s'ha fet un Word Cloud dels tòpics del blog (a partir dels titulars), un petit anàlisi evolutiu dels comentaris del blog al llarg dels anys i, per acabar, un anàlisi de sentiments bàsic sobre els comentaris dels articles.
+S'ha utilitzat el llenguatge Python per a la realització d'aquesta pràctica.
 
 # Membres de l'equip:
 Individualment per **Pol Major i Munich**.
@@ -18,36 +16,17 @@ Individualment per **Pol Major i Munich**.
 # Paquets utilitzades:
 S'utilitzen els següents paquets:
 
-> csv
-
-> urllib
-
-> reppy
-
-> time
-
-> datetime
-
 > pandas
 
 > numpy
 
-> BeautifulSoup
+> scipy
 
-> nltk
+> sklearn
 
-> gensim
-
-> ast
-
-> mlxtend
+> seaborn
 
 > matplotlib
-
-> wordcloud
-
-> indicoio
-
 
 # Carpetes i fitxers
 
