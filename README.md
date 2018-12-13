@@ -13,7 +13,7 @@ S'ha utilitzat el llenguatge Python per a la realització d'aquesta pràctica.
 # Membres de l'equip:
 Individualment per **Pol Major i Munich**.
 
-# Paquets utilitzades:
+# Paquets utilitzats:
 S'utilitzen els següents paquets:
 
 > pandas
@@ -36,27 +36,21 @@ Si falla la càrrega dels notebooks, es recomana obrir-los copiant l'enllaç a:
 
 · /src:
 
-  - Python notebooks del Crawler que obté de les dades i l'anàlisi posterior fet en format .ipynb .
+  - Dos Python notebooks. 
   
-  - Script de R utilitzat per aplicar l'algorisme "apriori" i crear un graf parcial de referències dels articles.
-  
-· /img:
-
-  - Conté les imatges extretes (gràfics, wordcloud).
+    > '1-3. Descripció i neteja de les dades.ipynb' Corresponent als primers apartats de la pràctica.
+    
+    > '4-6. Anàlisi i resultats.ipynb' Corresponent als últims apartats de la pràctica.
   
 · /csv:
 
-  - fitness_revo_full.csv conté totes les dades extretes de la web (url, títol, número de comentaris, data de l'article i comentaris).
+  - 'train.csv' i 'test.csv' contenen les dades originals descarregades de Kaggle
   
-  - Fitxers de referències amb i sense encoded.
-  
-  - Fitxer comment_polarity.csv obtingut de l'anàlisi de sentiments dels comentaris.
+  - 'cleaned_train.csv' i 'cleaned_test.csv' 
   
 · /html:
 
   - Els notebooks descarregats en format html.
-  
-  - Dos gràfics interactius en format html, que representen les relacions entre els diferents articles publicats (extret a partir de les referències).
 
 · /pdf:
   
