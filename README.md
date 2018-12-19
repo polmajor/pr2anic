@@ -28,6 +28,8 @@ S'utilitzen els següents paquets:
 
 > matplotlib
 
+> plotly
+
 # Carpetes i fitxers
 
 Si falla la càrrega dels notebooks, es recomana obrir-los copiant l'enllaç a:
